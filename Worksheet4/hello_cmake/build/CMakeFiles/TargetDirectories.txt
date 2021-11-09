@@ -1,0 +1,3 @@
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/build/CMakeFiles/hello.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/build/CMakeFiles/edit_cache.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jetsa\OneDrive\Documents\EEEE2046\Worksheet4\hello_cmake\calc_cmake\msvc_static\CMakeFiles\f1083a7c5241aa6d9b873b93bf38e7f5\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F119F666-B4AC-35A4-A6D9-7B0BEDF8A173}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

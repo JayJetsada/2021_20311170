@@ -1,0 +1,4 @@
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/calc_cmake/mingw_static/CMakeFiles/calc.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/calc_cmake/mingw_static/CMakeFiles/maths.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/calc_cmake/mingw_static/CMakeFiles/edit_cache.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/calc_cmake/mingw_static/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw810_64\bin\ar.exe qc libmaths.a CMakeFiles/maths.dir/adder.cpp.obj
+C:\Qt\Tools\mingw810_64\bin\ranlib.exe libmaths.a

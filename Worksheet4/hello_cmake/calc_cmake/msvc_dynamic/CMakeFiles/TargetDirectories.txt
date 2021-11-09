@@ -1,0 +1,4 @@
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/calc_cmake/msvc_dynamic/CMakeFiles/calc.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/calc_cmake/msvc_dynamic/CMakeFiles/maths.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/calc_cmake/msvc_dynamic/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/Worksheet4/hello_cmake/calc_cmake/msvc_dynamic/CMakeFiles/ZERO_CHECK.dir

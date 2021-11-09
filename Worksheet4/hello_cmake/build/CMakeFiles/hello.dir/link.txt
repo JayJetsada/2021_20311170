@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\hello.dir/objects.a
-C:\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\hello.dir/objects.a @CMakeFiles\hello.dir\objects1.rsp
-C:\Qt\Tools\mingw810_64\bin\g++.exe -Wl,--whole-archive CMakeFiles\hello.dir/objects.a -Wl,--no-whole-archive -o hello.exe -Wl,--out-implib,libhello.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\hello.dir\linklibs.rsp

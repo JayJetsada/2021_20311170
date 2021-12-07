@@ -357,14 +357,45 @@ CMakeFiles/hello_qt.dir/mainwindow.cpp.obj: \
  C:/Qt/6.2.1/mingw81_64/include/QtGui/qinputmethod.h \
  C:/Qt/6.2.1/mingw81_64/include/QtCore/qlocale.h \
  C:/Qt/6.2.1/mingw81_64/include/QtGui/qguiapplication_platform.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QHBoxLayout \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qboxlayout.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qlayout.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qlayoutitem.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qboxlayout.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qgridlayout.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QListView \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qlistview.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qabstractitemview.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qabstractscrollarea.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qframe.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qabstractitemmodel.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qitemselectionmodel.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qabstractitemdelegate.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qstyleoption.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qabstractspinbox.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtGui/qvalidator.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qregularexpression.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qslider.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qabstractslider.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qstyle.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qtabbar.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qrubberband.h \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QMainWindow \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QMenuBar \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qmenubar.h \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qmenu.h \
  C:/Qt/6.2.1/mingw81_64/include/QtGui/qaction.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QPushButton \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qpushbutton.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qabstractbutton.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QSpacerItem \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qlayoutitem.h \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QStatusBar \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qstatusbar.h \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QToolBar \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qtoolbar.h \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QWidget \
- C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qwidget.h
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qwidget.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QMessageBox \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qmessagebox.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qdialog.h

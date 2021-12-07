@@ -18,7 +18,7 @@ find_package( Qt6Widgets )
 message( STATUS "Qt6Widgets Include Dirs: ${Qt6Widgets_INCLUDE_DIRS}" )
 message( STATUS "Qt6Widgets Libraries: ${Qt6Widgets_LIBRARIES}" )
 # Same as previously: define the executable and it's sources.
-add_executable( hello_qt2 WIN32
+add_executable( hello_qt WIN32
 main.cpp mainwindow.cpp
 mainwindow.h
 mainwindow.ui )

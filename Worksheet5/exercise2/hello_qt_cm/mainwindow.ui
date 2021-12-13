@@ -98,6 +98,9 @@
   </widget>
   <widget class="QStatusBar" name="statusBar"/>
   <action name="actionSave">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
    <property name="icon">
     <iconset>
      <normaloff>Icons/actionSave.png</normaloff>

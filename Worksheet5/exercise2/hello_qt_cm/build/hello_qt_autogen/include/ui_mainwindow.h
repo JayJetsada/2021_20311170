@@ -51,6 +51,7 @@ public:
         MainWindow->resize(400, 426);
         actionSave = new QAction(MainWindow);
         actionSave->setObjectName(QString::fromUtf8("actionSave"));
+        actionSave->setCheckable(true);
         QIcon icon;
         icon.addFile(QString::fromUtf8("Icons/actionSave.png"), QSize(), QIcon::Normal, QIcon::Off);
         icon.addFile(QString::fromUtf8("Icons/actionSave.png"), QSize(), QIcon::Normal, QIcon::On);

@@ -141,6 +141,30 @@ hello_qt_autogen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt_autogen.dir\build.make CMakeFiles/hello_qt_autogen.dir/build
 .PHONY : hello_qt_autogen/fast
 
+edititemdialog.obj: edititemdialog.cpp.obj
+.PHONY : edititemdialog.obj
+
+# target to build an object file
+edititemdialog.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj
+.PHONY : edititemdialog.cpp.obj
+
+edititemdialog.i: edititemdialog.cpp.i
+.PHONY : edititemdialog.i
+
+# target to preprocess a source file
+edititemdialog.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/edititemdialog.cpp.i
+.PHONY : edititemdialog.cpp.i
+
+edititemdialog.s: edititemdialog.cpp.s
+.PHONY : edititemdialog.s
+
+# target to generate assembly for a file
+edititemdialog.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/edititemdialog.cpp.s
+.PHONY : edititemdialog.cpp.s
+
 hello_qt_autogen/mocs_compilation.obj: hello_qt_autogen/mocs_compilation.cpp.obj
 .PHONY : hello_qt_autogen/mocs_compilation.obj
 
@@ -213,6 +237,54 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+stockitem.obj: stockitem.cpp.obj
+.PHONY : stockitem.obj
+
+# target to build an object file
+stockitem.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/stockitem.cpp.obj
+.PHONY : stockitem.cpp.obj
+
+stockitem.i: stockitem.cpp.i
+.PHONY : stockitem.i
+
+# target to preprocess a source file
+stockitem.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/stockitem.cpp.i
+.PHONY : stockitem.cpp.i
+
+stockitem.s: stockitem.cpp.s
+.PHONY : stockitem.s
+
+# target to generate assembly for a file
+stockitem.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/stockitem.cpp.s
+.PHONY : stockitem.cpp.s
+
+stockitemlistmodel.obj: stockitemlistmodel.cpp.obj
+.PHONY : stockitemlistmodel.obj
+
+# target to build an object file
+stockitemlistmodel.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj
+.PHONY : stockitemlistmodel.cpp.obj
+
+stockitemlistmodel.i: stockitemlistmodel.cpp.i
+.PHONY : stockitemlistmodel.i
+
+# target to preprocess a source file
+stockitemlistmodel.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.i
+.PHONY : stockitemlistmodel.cpp.i
+
+stockitemlistmodel.s: stockitemlistmodel.cpp.s
+.PHONY : stockitemlistmodel.s
+
+# target to generate assembly for a file
+stockitemlistmodel.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.s
+.PHONY : stockitemlistmodel.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -223,6 +295,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... hello_qt_autogen
 	@echo ... hello_qt
+	@echo ... edititemdialog.obj
+	@echo ... edititemdialog.i
+	@echo ... edititemdialog.s
 	@echo ... hello_qt_autogen/mocs_compilation.obj
 	@echo ... hello_qt_autogen/mocs_compilation.i
 	@echo ... hello_qt_autogen/mocs_compilation.s
@@ -232,6 +307,12 @@ help:
 	@echo ... mainwindow.obj
 	@echo ... mainwindow.i
 	@echo ... mainwindow.s
+	@echo ... stockitem.obj
+	@echo ... stockitem.i
+	@echo ... stockitem.s
+	@echo ... stockitemlistmodel.obj
+	@echo ... stockitemlistmodel.i
+	@echo ... stockitemlistmodel.s
 .PHONY : help
 
 

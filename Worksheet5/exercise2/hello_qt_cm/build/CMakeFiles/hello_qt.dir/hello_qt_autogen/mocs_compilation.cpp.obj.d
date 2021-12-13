@@ -1,6 +1,6 @@
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: \
  C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\hello_qt_autogen\mocs_compilation.cpp \
- C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\hello_qt_autogen\EWIEGA46WW/moc_mainwindow.cpp \
+ C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\hello_qt_autogen\EWIEGA46WW/moc_edititemdialog.cpp \
  C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/memory \
  C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/stl_algobase.h \
  C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
@@ -130,9 +130,9 @@ CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: \
  C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/atomic_base.h \
  C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/bits/atomic_lockfree_defines.h \
  C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward/auto_ptr.h \
- C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/mainwindow.h \
- C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QMainWindow \
- C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qmainwindow.h \
+ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/edititemdialog.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QDialog \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qdialog.h \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qtwidgetsglobal.h \
  C:/Qt/6.2.1/mingw81_64/include/QtGui/qtguiglobal.h \
  C:/Qt/6.2.1/mingw81_64/include/QtCore/qglobal.h \
@@ -313,5 +313,26 @@ CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: \
  C:/Qt/6.2.1/mingw81_64/include/QtGui/qcursor.h \
  C:/Qt/6.2.1/mingw81_64/include/QtGui/qbitmap.h \
  C:/Qt/6.2.1/mingw81_64/include/QtGui/qkeysequence.h \
+ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitem.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/QString \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qstring.h \
+ C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\hello_qt_autogen\EWIEGA46WW/moc_mainwindow.cpp \
+ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/mainwindow.h \
+ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitemlistmodel.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/QAbstractListModel \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qabstractitemmodel.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qhash.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qvariant.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qmap.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qshareddata_impl.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qdebug.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qtextstream.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qstringconverter.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qset.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtCore/qcontiguouscache.h \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QMainWindow \
+ C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qmainwindow.h \
  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qtabwidget.h \
- C:/Qt/6.2.1/mingw81_64/include/QtGui/qicon.h
+ C:/Qt/6.2.1/mingw81_64/include/QtGui/qicon.h \
+ C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\hello_qt_autogen\EWIEGA46WW/moc_stockitemlistmodel.cpp \
+ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitemlistmodel.h

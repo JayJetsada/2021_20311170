@@ -22,8 +22,8 @@ QT_BEGIN_MOC_NAMESPACE
 QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 struct qt_meta_stringdata_MainWindow_t {
-    const uint offsetsAndSize[12];
-    char stringdata0[64];
+    const uint offsetsAndSize[18];
+    char stringdata0[124];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(offsetof(qt_meta_stringdata_MainWindow_t, stringdata0) + ofs), len 
@@ -34,11 +34,15 @@ QT_MOC_LITERAL(11, 19), // "statusUpdateMessage"
 QT_MOC_LITERAL(31, 0), // ""
 QT_MOC_LITERAL(32, 7), // "message"
 QT_MOC_LITERAL(40, 7), // "timeout"
-QT_MOC_LITERAL(48, 15) // "handleAddButton"
+QT_MOC_LITERAL(48, 15), // "handleAddButton"
+QT_MOC_LITERAL(64, 16), // "handleEditButton"
+QT_MOC_LITERAL(81, 18), // "handleRemoveButton"
+QT_MOC_LITERAL(100, 23) // "on_actionSave_triggered"
 
     },
     "MainWindow\0statusUpdateMessage\0\0message\0"
-    "timeout\0handleAddButton"
+    "timeout\0handleAddButton\0handleEditButton\0"
+    "handleRemoveButton\0on_actionSave_triggered"
 };
 #undef QT_MOC_LITERAL
 
@@ -48,7 +52,7 @@ static const uint qt_meta_data_MainWindow[] = {
       10,       // revision
        0,       // classname
        0,    0, // classinfo
-       2,   14, // methods
+       5,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -56,15 +60,21 @@ static const uint qt_meta_data_MainWindow[] = {
        1,       // signalCount
 
  // signals: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    2,   26,    2, 0x06,    1 /* Public */,
+       1,    2,   44,    2, 0x06,    1 /* Public */,
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       5,    0,   31,    2, 0x0a,    4 /* Public */,
+       5,    0,   49,    2, 0x0a,    4 /* Public */,
+       6,    0,   50,    2, 0x0a,    5 /* Public */,
+       7,    0,   51,    2, 0x0a,    6 /* Public */,
+       8,    0,   52,    2, 0x0a,    7 /* Public */,
 
  // signals: parameters
     QMetaType::Void, QMetaType::QString, QMetaType::Int,    3,    4,
 
  // slots: parameters
+    QMetaType::Void,
+    QMetaType::Void,
+    QMetaType::Void,
     QMetaType::Void,
 
        0        // eod
@@ -78,6 +88,9 @@ void MainWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _id, 
         switch (_id) {
         case 0: _t->statusUpdateMessage((*reinterpret_cast< const QString(*)>(_a[1])),(*reinterpret_cast< int(*)>(_a[2]))); break;
         case 1: _t->handleAddButton(); break;
+        case 2: _t->handleEditButton(); break;
+        case 3: _t->handleRemoveButton(); break;
+        case 4: _t->on_actionSave_triggered(); break;
         default: ;
         }
     } else if (_c == QMetaObject::IndexOfMethod) {
@@ -100,7 +113,7 @@ const QMetaObject MainWindow::staticMetaObject = { {
     nullptr,
 qt_incomplete_metaTypeArray<qt_meta_stringdata_MainWindow_t
 , QtPrivate::TypeAndForceComplete<MainWindow, std::true_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<const QString &, std::false_type>, QtPrivate::TypeAndForceComplete<int, std::false_type>
-, QtPrivate::TypeAndForceComplete<void, std::false_type>
+, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>, QtPrivate::TypeAndForceComplete<void, std::false_type>
 
 
 >,
@@ -127,13 +140,13 @@ int MainWindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 2)
+        if (_id < 5)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 2;
+        _id -= 5;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 2)
+        if (_id < 5)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 2;
+        _id -= 5;
     }
     return _id;
 }

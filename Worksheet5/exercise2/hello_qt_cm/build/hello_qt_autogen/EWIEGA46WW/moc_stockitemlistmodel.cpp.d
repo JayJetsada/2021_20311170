@@ -1,4 +1,4 @@
-C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/hello_qt_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/mainwindow.h \
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/hello_qt_autogen/EWIEGA46WW/moc_stockitemlistmodel.cpp: C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitemlistmodel.h \
   C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/hello_qt_autogen/moc_predefs.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/QAbstractListModel \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/QString \
@@ -34,11 +34,9 @@ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/he
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qiodevicebase.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qiterable.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qiterator.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtCore/qline.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qlist.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qlogging.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qmap.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtCore/qmargins.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qmath.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qmetacontainer.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qmetatype.h \
@@ -49,11 +47,9 @@ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/he
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qobjectdefs.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qobjectdefs_impl.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qpair.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtCore/qpoint.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qproperty.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qpropertyprivate.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtCore/qrect.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qrefcount.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qscopeguard.h \
@@ -62,7 +58,6 @@ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/he
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qshareddata_impl.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qsharedpointer.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qsharedpointer_impl.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtCore/qsize.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qstring.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qstringalgorithms.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qstringconverter.h \
@@ -82,36 +77,6 @@ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/he
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qvariant.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.2.1/mingw81_64/include/QtCore/qversiontagging.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qbitmap.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qbrush.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qcolor.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qcursor.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qfont.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qfontinfo.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qfontmetrics.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qicon.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qimage.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qkeysequence.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qpaintdevice.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qpalette.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qpixelformat.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qpixmap.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qpolygon.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qregion.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qrgb.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qrgba64.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qtgui-config.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qtguiglobal.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qtransform.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qwindowdefs.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtGui/qwindowdefs_win.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/QMainWindow \
-  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qmainwindow.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qsizepolicy.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qtabwidget.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qtwidgets-config.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qtwidgetsglobal.h \
-  C:/Qt/6.2.1/mingw81_64/include/QtWidgets/qwidget.h \
   C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
   C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
   C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/algorithm \
@@ -302,5 +267,4 @@ C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/he
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include/wctype.h \
-  C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitem.h \
-  C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitemlistmodel.h
+  C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitem.h

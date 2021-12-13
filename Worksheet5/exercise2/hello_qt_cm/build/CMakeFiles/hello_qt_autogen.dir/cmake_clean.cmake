@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/hello_qt_autogen"
+  "hello_qt_autogen/include/ui_edititemdialog.h"
   "hello_qt_autogen/include/ui_mainwindow.h"
   "hello_qt_autogen/mocs_compilation.cpp"
 )

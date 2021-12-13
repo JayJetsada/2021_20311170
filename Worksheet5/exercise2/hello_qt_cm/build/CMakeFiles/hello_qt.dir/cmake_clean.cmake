@@ -10,6 +10,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/hello_qt.dir/main.cpp.obj.d"
   "CMakeFiles/hello_qt.dir/mainwindow.cpp.obj"
   "CMakeFiles/hello_qt.dir/mainwindow.cpp.obj.d"
+  "CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj"
+  "CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj.d"
   "CMakeFiles/hello_qt.dir/stockitem.cpp.obj"
   "CMakeFiles/hello_qt.dir/stockitem.cpp.obj.d"
   "CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj"
@@ -18,6 +20,7 @@ file(REMOVE_RECURSE
   "hello_qt.exe.manifest"
   "hello_qt.pdb"
   "libhello_qt.dll.a"
+  "qrc_icons.cpp"
 )
 
 # Per-language clean rules from dependency scanning.

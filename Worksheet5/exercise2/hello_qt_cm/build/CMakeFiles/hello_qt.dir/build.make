@@ -68,11 +68,18 @@ include CMakeFiles/hello_qt.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/hello_qt.dir/flags.make
 
+qrc_icons.cpp: ../Icons/actionSave.png
+qrc_icons.cpp: Icons/icons.qrc.depends
+qrc_icons.cpp: C:/Qt/6.2.1/mingw81_64/./bin/rcc.exe
+qrc_icons.cpp: ../Icons/icons.qrc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating qrc_icons.cpp"
+	C:\Qt\6.2.1\mingw81_64\bin\rcc.exe --name icons --output C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/qrc_icons.cpp C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/Icons/icons.qrc
+
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: hello_qt_autogen/mocs_compilation.cpp
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj: CMakeFiles/hello_qt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj"
 	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj -MF CMakeFiles\hello_qt.dir\hello_qt_autogen\mocs_compilation.cpp.obj.d -o CMakeFiles\hello_qt.dir\hello_qt_autogen\mocs_compilation.cpp.obj -c C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\hello_qt_autogen\mocs_compilation.cpp
 
 CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.i: cmake_force
@@ -87,7 +94,7 @@ CMakeFiles/hello_qt.dir/main.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
 CMakeFiles/hello_qt.dir/main.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
 CMakeFiles/hello_qt.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/hello_qt.dir/main.cpp.obj: CMakeFiles/hello_qt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello_qt.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello_qt.dir/main.cpp.obj"
 	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_qt.dir/main.cpp.obj -MF CMakeFiles\hello_qt.dir\main.cpp.obj.d -o CMakeFiles\hello_qt.dir\main.cpp.obj -c C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\main.cpp
 
 CMakeFiles/hello_qt.dir/main.cpp.i: cmake_force
@@ -102,7 +109,7 @@ CMakeFiles/hello_qt.dir/mainwindow.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
 CMakeFiles/hello_qt.dir/mainwindow.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
 CMakeFiles/hello_qt.dir/mainwindow.cpp.obj: ../mainwindow.cpp
 CMakeFiles/hello_qt.dir/mainwindow.cpp.obj: CMakeFiles/hello_qt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello_qt.dir/mainwindow.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hello_qt.dir/mainwindow.cpp.obj"
 	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_qt.dir/mainwindow.cpp.obj -MF CMakeFiles\hello_qt.dir\mainwindow.cpp.obj.d -o CMakeFiles\hello_qt.dir\mainwindow.cpp.obj -c C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\mainwindow.cpp
 
 CMakeFiles/hello_qt.dir/mainwindow.cpp.i: cmake_force
@@ -117,7 +124,7 @@ CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj: CMakeFiles/hello_qt.dir/flags.ma
 CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
 CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj: ../edititemdialog.cpp
 CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj: CMakeFiles/hello_qt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj"
 	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj -MF CMakeFiles\hello_qt.dir\edititemdialog.cpp.obj.d -o CMakeFiles\hello_qt.dir\edititemdialog.cpp.obj -c C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\edititemdialog.cpp
 
 CMakeFiles/hello_qt.dir/edititemdialog.cpp.i: cmake_force
@@ -132,7 +139,7 @@ CMakeFiles/hello_qt.dir/stockitem.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
 CMakeFiles/hello_qt.dir/stockitem.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
 CMakeFiles/hello_qt.dir/stockitem.cpp.obj: ../stockitem.cpp
 CMakeFiles/hello_qt.dir/stockitem.cpp.obj: CMakeFiles/hello_qt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hello_qt.dir/stockitem.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/hello_qt.dir/stockitem.cpp.obj"
 	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_qt.dir/stockitem.cpp.obj -MF CMakeFiles\hello_qt.dir\stockitem.cpp.obj.d -o CMakeFiles\hello_qt.dir\stockitem.cpp.obj -c C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\stockitem.cpp
 
 CMakeFiles/hello_qt.dir/stockitem.cpp.i: cmake_force
@@ -147,7 +154,7 @@ CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj: CMakeFiles/hello_qt.dir/flag
 CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
 CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj: ../stockitemlistmodel.cpp
 CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj: CMakeFiles/hello_qt.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj"
 	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj -MF CMakeFiles\hello_qt.dir\stockitemlistmodel.cpp.obj.d -o CMakeFiles\hello_qt.dir\stockitemlistmodel.cpp.obj -c C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\stockitemlistmodel.cpp
 
 CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.i: cmake_force
@@ -158,6 +165,21 @@ CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.s"
 	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\stockitemlistmodel.cpp -o CMakeFiles\hello_qt.dir\stockitemlistmodel.cpp.s
 
+CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj: CMakeFiles/hello_qt.dir/flags.make
+CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj: CMakeFiles/hello_qt.dir/includes_CXX.rsp
+CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj: qrc_icons.cpp
+CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj: CMakeFiles/hello_qt.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj"
+	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj -MF CMakeFiles\hello_qt.dir\qrc_icons.cpp.obj.d -o CMakeFiles\hello_qt.dir\qrc_icons.cpp.obj -c C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\qrc_icons.cpp
+
+CMakeFiles/hello_qt.dir/qrc_icons.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/hello_qt.dir/qrc_icons.cpp.i"
+	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\qrc_icons.cpp > CMakeFiles\hello_qt.dir\qrc_icons.cpp.i
+
+CMakeFiles/hello_qt.dir/qrc_icons.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/hello_qt.dir/qrc_icons.cpp.s"
+	C:\Qt\Tools\mingw810_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\qrc_icons.cpp -o CMakeFiles\hello_qt.dir\qrc_icons.cpp.s
+
 # Object files for target hello_qt
 hello_qt_OBJECTS = \
 "CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj" \
@@ -165,7 +187,8 @@ hello_qt_OBJECTS = \
 "CMakeFiles/hello_qt.dir/mainwindow.cpp.obj" \
 "CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj" \
 "CMakeFiles/hello_qt.dir/stockitem.cpp.obj" \
-"CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj"
+"CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj" \
+"CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj"
 
 # External object files for target hello_qt
 hello_qt_EXTERNAL_OBJECTS =
@@ -176,6 +199,7 @@ hello_qt.exe: CMakeFiles/hello_qt.dir/mainwindow.cpp.obj
 hello_qt.exe: CMakeFiles/hello_qt.dir/edititemdialog.cpp.obj
 hello_qt.exe: CMakeFiles/hello_qt.dir/stockitem.cpp.obj
 hello_qt.exe: CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj
+hello_qt.exe: CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj
 hello_qt.exe: CMakeFiles/hello_qt.dir/build.make
 hello_qt.exe: C:/Qt/6.2.1/mingw81_64/lib/libQt6Widgets.a
 hello_qt.exe: C:/Qt/6.2.1/mingw81_64/lib/libQt6Gui.a
@@ -184,7 +208,7 @@ hello_qt.exe: C:/Qt/6.2.1/mingw81_64/lib/libQt6EntryPoint.a
 hello_qt.exe: CMakeFiles/hello_qt.dir/linklibs.rsp
 hello_qt.exe: CMakeFiles/hello_qt.dir/objects1.rsp
 hello_qt.exe: CMakeFiles/hello_qt.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable hello_qt.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable hello_qt.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\hello_qt.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -195,7 +219,7 @@ CMakeFiles/hello_qt.dir/clean:
 	$(CMAKE_COMMAND) -P CMakeFiles\hello_qt.dir\cmake_clean.cmake
 .PHONY : CMakeFiles/hello_qt.dir/clean
 
-CMakeFiles/hello_qt.dir/depend:
+CMakeFiles/hello_qt.dir/depend: qrc_icons.cpp
 	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet5\exercise2\hello_qt_cm\build\CMakeFiles\hello_qt.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/hello_qt.dir/depend
 

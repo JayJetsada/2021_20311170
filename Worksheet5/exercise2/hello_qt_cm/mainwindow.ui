@@ -100,7 +100,8 @@
   <action name="actionSave">
    <property name="icon">
     <iconset>
-     <normaloff>//mac/Home/Downloads/iconsave.png</normaloff>//mac/Home/Downloads/iconsave.png</iconset>
+     <normaloff>Icons/actionSave.png</normaloff>
+     <normalon>Icons/actionSave.png</normalon>Icons/actionSave.png</iconset>
    </property>
    <property name="text">
     <string>Save</string>

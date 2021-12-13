@@ -52,7 +52,8 @@ public:
         actionSave = new QAction(MainWindow);
         actionSave->setObjectName(QString::fromUtf8("actionSave"));
         QIcon icon;
-        icon.addFile(QString::fromUtf8("//mac/Home/Downloads/iconsave.png"), QSize(), QIcon::Normal, QIcon::Off);
+        icon.addFile(QString::fromUtf8("Icons/actionSave.png"), QSize(), QIcon::Normal, QIcon::Off);
+        icon.addFile(QString::fromUtf8("Icons/actionSave.png"), QSize(), QIcon::Normal, QIcon::On);
         actionSave->setIcon(icon);
         centralWidget = new QWidget(MainWindow);
         centralWidget->setObjectName(QString::fromUtf8("centralWidget"));

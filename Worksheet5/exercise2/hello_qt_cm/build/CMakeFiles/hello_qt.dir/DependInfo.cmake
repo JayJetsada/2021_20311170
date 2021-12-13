@@ -12,6 +12,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/hello_qt_autogen/mocs_compilation.cpp" "CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj" "gcc" "CMakeFiles/hello_qt.dir/hello_qt_autogen/mocs_compilation.cpp.obj.d"
   "C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/main.cpp" "CMakeFiles/hello_qt.dir/main.cpp.obj" "gcc" "CMakeFiles/hello_qt.dir/main.cpp.obj.d"
   "C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/mainwindow.cpp" "CMakeFiles/hello_qt.dir/mainwindow.cpp.obj" "gcc" "CMakeFiles/hello_qt.dir/mainwindow.cpp.obj.d"
+  "C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/qrc_icons.cpp" "CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj" "gcc" "CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj.d"
   "C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitem.cpp" "CMakeFiles/hello_qt.dir/stockitem.cpp.obj" "gcc" "CMakeFiles/hello_qt.dir/stockitem.cpp.obj.d"
   "C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/stockitemlistmodel.cpp" "CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj" "gcc" "CMakeFiles/hello_qt.dir/stockitemlistmodel.cpp.obj.d"
   )

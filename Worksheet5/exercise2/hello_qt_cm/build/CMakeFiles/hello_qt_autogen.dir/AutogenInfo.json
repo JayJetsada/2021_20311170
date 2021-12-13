@@ -217,7 +217,8 @@
 		"C:/Qt/6.2.1/mingw81_64/lib/cmake/Qt6Widgets/Qt6WidgetsAdditionalTargetInfo.cmake",
 		"C:/Qt/6.2.1/mingw81_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake",
 		"C:/Qt/6.2.1/mingw81_64/lib/cmake/Qt6Widgets/Qt6WidgetsMacros.cmake",
-		"C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
+		"C:/Program Files/CMake/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/Icons/icons.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm",
 	"DEP_FILE" : "",

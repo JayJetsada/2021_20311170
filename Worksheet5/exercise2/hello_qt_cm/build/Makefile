@@ -237,6 +237,30 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+qrc_icons.obj: qrc_icons.cpp.obj
+.PHONY : qrc_icons.obj
+
+# target to build an object file
+qrc_icons.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/qrc_icons.cpp.obj
+.PHONY : qrc_icons.cpp.obj
+
+qrc_icons.i: qrc_icons.cpp.i
+.PHONY : qrc_icons.i
+
+# target to preprocess a source file
+qrc_icons.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/qrc_icons.cpp.i
+.PHONY : qrc_icons.cpp.i
+
+qrc_icons.s: qrc_icons.cpp.s
+.PHONY : qrc_icons.s
+
+# target to generate assembly for a file
+qrc_icons.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_qt.dir\build.make CMakeFiles/hello_qt.dir/qrc_icons.cpp.s
+.PHONY : qrc_icons.cpp.s
+
 stockitem.obj: stockitem.cpp.obj
 .PHONY : stockitem.obj
 
@@ -307,6 +331,9 @@ help:
 	@echo ... mainwindow.obj
 	@echo ... mainwindow.i
 	@echo ... mainwindow.s
+	@echo ... qrc_icons.obj
+	@echo ... qrc_icons.i
+	@echo ... qrc_icons.s
 	@echo ... stockitem.obj
 	@echo ... stockitem.i
 	@echo ... stockitem.s

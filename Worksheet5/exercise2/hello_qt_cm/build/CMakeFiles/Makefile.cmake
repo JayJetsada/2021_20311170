@@ -111,6 +111,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Qt/6.2.1/mingw81_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsTargets.cmake"
   "C:/Qt/6.2.1/mingw81_64/lib/cmake/Qt6WidgetsTools/Qt6WidgetsToolsVersionlessTargets.cmake"
   "../CMakeLists.txt"
+  "../Icons/icons.qrc"
   "CMakeFiles/3.22.0-rc2/CMakeCCompiler.cmake"
   "CMakeFiles/3.22.0-rc2/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.22.0-rc2/CMakeRCCompiler.cmake"
@@ -125,6 +126,7 @@ set(CMAKE_MAKEFILE_OUTPUTS
 
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
+  "Icons/icons.qrc.depends"
   "CMakeFiles/hello_qt_autogen.dir/AutogenInfo.json"
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   )

@@ -1,4 +1,4 @@
-name: cmake-test
+name: make-test
 # Act when main branch is pushed
 on:
  push:

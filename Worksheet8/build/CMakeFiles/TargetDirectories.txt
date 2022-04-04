@@ -1,0 +1,7 @@
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/CMakeFiles/maths.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/CMakeFiles/calc.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/CMakeFiles/test1.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/CMakeFiles/PACKAGE.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/CMakeFiles/INSTALL.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/CMakeFiles/ZERO_CHECK.dir

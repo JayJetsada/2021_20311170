@@ -1,4 +1,3 @@
-# make-test.yml
 name: make-test
 
 # Act when main branch is pushed

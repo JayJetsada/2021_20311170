@@ -1,4 +1,3 @@
-# cmake-test.yml
 name: cmake-test
 # Act when main branch is pushed
 on:

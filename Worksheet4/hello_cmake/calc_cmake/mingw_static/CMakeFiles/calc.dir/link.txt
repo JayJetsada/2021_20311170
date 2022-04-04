@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\calc.dir/objects.a
-C:\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\calc.dir/objects.a @CMakeFiles\calc.dir\objects1.rsp
-C:\Qt\Tools\mingw810_64\bin\g++.exe -Wl,--whole-archive CMakeFiles\calc.dir/objects.a -Wl,--no-whole-archive -o calc.exe -Wl,--out-implib,libcalc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\calc.dir\linklibs.rsp

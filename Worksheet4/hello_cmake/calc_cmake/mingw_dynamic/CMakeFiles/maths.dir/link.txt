@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\maths.dir/objects.a
-C:\Qt\Tools\mingw810_64\bin\ar.exe cr CMakeFiles\maths.dir/objects.a @CMakeFiles\maths.dir\objects1.rsp
-C:\Qt\Tools\mingw810_64\bin\g++.exe -shared -o libmaths.dll -Wl,--out-implib,libmaths.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\maths.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\maths.dir\linklibs.rsp

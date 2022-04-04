@@ -1,4 +1,0 @@
-C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/CMakeFiles/hello_qt.dir
-C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/CMakeFiles/edit_cache.dir
-C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet5/exercise2/hello_qt_cm/build/CMakeFiles/hello_qt_autogen.dir

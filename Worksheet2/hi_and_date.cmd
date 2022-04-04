@@ -1,0 +1,1 @@
+@echo Hi, Time is %time% on %date%

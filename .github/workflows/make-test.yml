@@ -2,13 +2,10 @@ name: make-test
 
 on:
   push:
-    branches: [ master ] 
+    branches: [main] 
 
 jobs:
-
-build-worksheet7:
-
-
+  build-worksheet7:
     runs-on: ubuntu-latest
 
     steps:

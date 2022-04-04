@@ -1,1 +1,2 @@
-Item:1 : Item_Name Cost: 0 StockLevel: 0
+Item:1 : Item1 Cost: 4 StockLevel: 3
+Item:2 : Item_Name Cost: 0 StockLevel: 0

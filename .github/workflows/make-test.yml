@@ -13,8 +13,7 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Configure CMake 
-      run: cd Worksheet7
-      run: cmake -B ${{github.workspace}}/build Exercise2
+      run: cmake -B ${{github.workspace}}/build Worksheet7 Exercise2
 
     - name: Build
       working-directory: ${{github.workspace}}/build 

@@ -1,1 +1,16 @@
-*.o *.a *.d *.ts *.xml *.cbp *.exe *.obj *.lib *.make *.cmake *.jason *.vcxproj *.dll *.dll.a *.dll.exp
+*.o 
+*.a 
+*.d 
+*.ts 
+*.xml 
+*.cbp 
+*.exe 
+*.obj 
+*.lib 
+*.make 
+*.cmake 
+*.jason 
+*.vcxproj 
+*.dll 
+*.dll.a 
+*.dll.exp

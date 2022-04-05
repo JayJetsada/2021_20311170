@@ -2,6 +2,8 @@
 #ifndef MATHSLIB_MATHS_H
 #define MATHSLIB_MATHS_H
 
+/** @file contains adder library */
+
 /** This function adds two numbers
  *
  * @param a is the first number to add

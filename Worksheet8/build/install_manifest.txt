@@ -1,0 +1,2 @@
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/_CPack_Packages/win64/NSIS/Project-0.1.1-win64/bin/calc.exe
+C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/_CPack_Packages/win64/NSIS/Project-0.1.1-win64/lib/static/maths.lib

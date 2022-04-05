@@ -2,7 +2,9 @@
 #ifndef MATHSLIB_MATHS_H
 #define MATHSLIB_MATHS_H
 
-/** @file contains adder library */
+/** @file
+* This file contains the declarations of all exported functions.
+*/
 
 /** This function adds two numbers
  *

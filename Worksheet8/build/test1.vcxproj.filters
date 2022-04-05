@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet8\test1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jetsa\OneDrive\Documents\EEEE2046\2021_20311170\Worksheet8\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{60718E1F-BB36-3194-B6D3-CE43CED5C6DD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

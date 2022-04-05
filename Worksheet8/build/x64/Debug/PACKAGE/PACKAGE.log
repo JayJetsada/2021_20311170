@@ -1,0 +1,5 @@
+﻿  CPack: Create package using NSIS
+  CPack: Install projects
+  CPack: - Install project: Project [Debug]
+  CPack: Create package
+  CPack: - package: C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/Project-0.1.1-win64.exe generated.

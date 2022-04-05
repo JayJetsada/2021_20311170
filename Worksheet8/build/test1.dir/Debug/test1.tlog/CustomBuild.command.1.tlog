@@ -1,0 +1,10 @@
+^C:\USERS\JETSA\ONEDRIVE\DOCUMENTS\EEEE2046\2021_20311170\WORKSHEET8\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8 -BC:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build --check-stamp-file C:/Users/Jetsa/OneDrive/Documents/EEEE2046/2021_20311170/Worksheet8/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
